@@ -1,0 +1,9 @@
+## Lưu ý chung
+
+- Đặt tên bằng tiếng Anh, chú thích code bằng tiếng Việt.
+- Đặt tên dễ hiểu, đúng với chức năng.
+- Không đặt tên tùy tiện như `a`, `abc`, `temp1` nếu không rõ ý nghĩa.
+- Các thông số của game phải đặt trong file `Config.h`.
+- Không tự ý đổi tên hàm, class dùng chung.
+- Nếu cần thay đổi tên ảnh hưởng đến code của người khác, phải thông báo cho nhóm trước.
+- Khi sử dụng AI để viết code, yêu cầu AI đọc README và tuân thủ các quy tắc trên.
