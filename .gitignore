@@ -1,0 +1,18 @@
+# Công cụ biên dịch cục bộ & thư mục build (không đẩy lên GitHub)
+.toolchains/
+build/
+.vscode/
+
+# Tệp thực thi & bộ nhớ đệm
+*.exe
+*.dll
+*.o
+*.obj
+*.pdb
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# B? qua t?p video quay th? nghi?m c?c b?
+*.mp4
