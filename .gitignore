@@ -1,0 +1,8 @@
+/build/
+/out/
+/.vs/
+/.cache/
+CMakeUserPresets.json
+*.exe
+
+/build-mingw*/

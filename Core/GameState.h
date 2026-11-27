@@ -1,0 +1,6 @@
+#pragma once
+
+enum class GameState {
+    MAIN_MENU, INSTRUCTIONS, COUNTDOWN, SURVIVAL,
+    BOSS_INCOMING, BOSS_FIGHT, PAUSED, VICTORY, GAME_OVER
+};
